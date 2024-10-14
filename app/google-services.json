@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664793353552",
+    "project_id": "adminlaxoone",
+    "storage_bucket": "adminlaxoone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664793353552:android:df43f66b1422b769e87055",
+        "android_client_info": {
+          "package_name": "com.example.a1408push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664793353552-7uvc2dq7rahr0id9q5fntk5gbt3dgkjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolsV_nxyHM2ck7TiEdtcDr421GK_N5DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664793353552-7uvc2dq7rahr0id9q5fntk5gbt3dgkjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="textViewBackColor">#A0EAE1</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">1408push</string>
+    <string name="default_web_client_id" translatable="false">664793353552-7uvc2dq7rahr0id9q5fntk5gbt3dgkjq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">664793353552</string>
+    <string name="google_api_key" translatable="false">AIzaSyAolsV_nxyHM2ck7TiEdtcDr421GK_N5DQ</string>
+    <string name="google_app_id" translatable="false">1:664793353552:android:df43f66b1422b769e87055</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAolsV_nxyHM2ck7TiEdtcDr421GK_N5DQ</string>
+    <string name="google_storage_bucket" translatable="false">adminlaxoone.appspot.com</string>
+    <string name="project_id" translatable="false">adminlaxoone</string>
+    <style name="Base.Theme._1408push" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme._1408push" parent="Base.Theme._1408push"/>
+</resources>

@@ -1,0 +1,5 @@
+com.example.a1408push.test.app-core-1.6.1-0 C:\Users\maxim\.gradle\caches\transforms-3\00b8efcec642fdecb7b5694e5acbc521\transformed\core-1.6.1\res
+com.example.a1408push.test.app-androidTest-1 C:\Users\maxim\AndroidStudioProjects\1408push\app\build\generated\res\resValues\androidTest\debug
+com.example.a1408push.test.app-mergeDebugAndroidTestResources-2 C:\Users\maxim\AndroidStudioProjects\1408push\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.a1408push.test.app-mergeDebugAndroidTestResources-3 C:\Users\maxim\AndroidStudioProjects\1408push\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.a1408push.test.app-merged_res-4 C:\Users\maxim\AndroidStudioProjects\1408push\app\build\intermediates\merged_res\debugAndroidTest
